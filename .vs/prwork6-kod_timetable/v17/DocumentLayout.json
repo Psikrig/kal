@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\model\\saveload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|solutionrelative:prwork6-kod_timetable\\model\\saveload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\model\\points_code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|solutionrelative:prwork6-kod_timetable\\model\\points_code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|d:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\visualmodel\\tuneidec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|solutionrelative:prwork6-kod_timetable\\visualmodel\\tuneidec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\visualmodel\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|solutionrelative:prwork6-kod_timetable\\visualmodel\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|solutionrelative:prwork6-kod_timetable\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5667B-FFEF-48A0-A77D-1C2BA0C3C101}|prwork6-kod_timetable\\prwork6-kod_timetable.csproj|solutionrelative:prwork6-kod_timetable\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 947,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BindableCommand.cs",
+              "DocumentMoniker": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\VisualModel\\Helpers\\BindableCommand.cs",
+              "RelativeDocumentMoniker": "prwork6-kod_timetable\\VisualModel\\Helpers\\BindableCommand.cs",
+              "ToolTip": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\VisualModel\\Helpers\\BindableCommand.cs",
+              "RelativeToolTip": "prwork6-kod_timetable\\VisualModel\\Helpers\\BindableCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:32:25.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tuneidec.cs",
+              "DocumentMoniker": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\VisualModel\\tuneidec.cs",
+              "RelativeDocumentMoniker": "prwork6-kod_timetable\\VisualModel\\tuneidec.cs",
+              "ToolTip": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\VisualModel\\tuneidec.cs",
+              "RelativeToolTip": "prwork6-kod_timetable\\VisualModel\\tuneidec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:24:00.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "points_code.cs",
+              "DocumentMoniker": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\Model\\points_code.cs",
+              "RelativeDocumentMoniker": "prwork6-kod_timetable\\Model\\points_code.cs",
+              "ToolTip": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\Model\\points_code.cs",
+              "RelativeToolTip": "prwork6-kod_timetable\\Model\\points_code.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwC0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:16:34.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "saveload.cs",
+              "DocumentMoniker": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\Model\\saveload.cs",
+              "RelativeDocumentMoniker": "prwork6-kod_timetable\\Model\\saveload.cs",
+              "ToolTip": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\Model\\saveload.cs",
+              "RelativeToolTip": "prwork6-kod_timetable\\Model\\saveload.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:46:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "prwork6-kod_timetable\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\MainWindow.xaml",
+              "RelativeToolTip": "prwork6-kod_timetable\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T18:45:29.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "prwork6-kod_timetable\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u043A\u043E\u0434\u0435\u043A\u0438\\c_chrp\\prwork6-kod_timetable\\prwork6-kod_timetable\\MainWindow.xaml.cs",
+              "RelativeToolTip": "prwork6-kod_timetable\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:45:28.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
